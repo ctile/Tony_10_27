@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Emblema One";
+  src: "EmblemaOne-Regular.tff";
+}
+h1 {
+  font-family: "Emblema One", sans-serif;
+}
